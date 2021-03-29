@@ -1,7 +1,7 @@
 
 
 # shellphish
-git clone https://github.com/shellphish/shellphish
+git clone https://github.com/Secret1433/shellphish.git
 
 
 cd shellphish
